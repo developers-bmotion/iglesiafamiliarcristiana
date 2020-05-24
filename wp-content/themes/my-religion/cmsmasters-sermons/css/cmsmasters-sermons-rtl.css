@@ -1,0 +1,42 @@
+/**
+ * @package 	WordPress
+ * @subpackage 	My Religion
+ * @version 	1.0.0
+ * 
+ * Sermons RTL Rules
+ * Created by CMSMasters
+ * 
+ */
+
+
+.cmsmasters_open_sermon .cmsmasters_sermon_cont_info > div {
+	margin-left: 15px;
+	margin-right:0;
+}
+
+.cmsmasters_open_sermon .cmsmasters_sermon_cont_info .cmsmasters_sermon_info {
+	float: left;
+	margin-left: 0;
+}
+
+.cmsmasters_open_sermon .cmsmasters_sermon_cont_info .cmsmasters_sermon_info > span {
+	margin-right: 10px;
+	margin-left:0;
+}
+
+.cmsmasters_open_sermon .cmsmasters_sermon_media .cmsmasters_sermon_media_item {
+	margin-left: 5px;
+	margin-right: 0;
+}
+
+.cmsmasters_open_sermon .cmsmasters_sermon_media .cmsmasters_sermon_media_title {
+	margin-right: 20px;
+	margin-left:0;
+}
+
+.cmsmasters_sermon .cmsmasters_sermon_media_item {
+	margin-left: 17px;
+	margin-right:0;
+}
+
+

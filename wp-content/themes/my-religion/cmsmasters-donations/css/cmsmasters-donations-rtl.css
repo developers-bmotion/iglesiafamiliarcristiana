@@ -1,0 +1,120 @@
+/**
+ * @package 	WordPress
+ * @subpackage 	My Religion
+ * @version		1.0.0
+ * 
+ * CMSMasters Donations RTL Rules
+ * Created by CMSMasters
+ * 
+ */
+
+
+.header_top_donation_but {
+	margin-left: 0;
+	margin-right: 20px;
+}
+
+.header_donation_but_wrap {
+	margin-right: 10px;
+	margin-left:0;
+	float: left;
+}
+
+.cmsmasters_campaign_donated .cmsmasters_stats.stats_mode_bars.stats_type_horizontal .cmsmasters_stat_wrap {
+	padding-left: 40px;
+	padding-right: 0;
+}
+
+.cmsmasters_campaign_donated_percent .cmsmasters_stats.stats_mode_bars.stats_type_horizontal {
+	direction:rtl;
+}
+
+.cmsmasters_featured_campaign .campaign > div {
+	margin-right: -4px;
+	margin-left:0;
+}
+
+.cmsmasters_featured_campaign .campaign > div:first-child {
+	margin-right: 0;
+}
+
+.cmsmasters_featured_campaign .campaign .cmsmasters_campaign_donated_percent .cmsmasters_stats.stats_mode_circles .cmsmasters_stat_wrap {
+	text-align: left;
+}
+
+.cmsmasters_campaigns .campaign .cmsmasters_stats.stats_mode_bars.stats_type_horizontal .cmsmasters_stat_wrap .cmsmasters_stat_title_wrap .cmsmasters_stat_counter_wrap {
+	float: left;
+}
+
+.opened-article > .campaign .cmsmasters_campaign_cont_info > span {
+	margin-left: 10px;
+	margin-right:0;
+}
+
+.opened-article > .campaign .cmsmasters_campaign_meta_info {
+	float: left;
+	padding-left: 3px;
+	padding-right:0;
+}
+
+.opened-article > .campaign .cmsmasters_campaign_meta_info > a {
+	margin-right: 10px;
+	margin-left:0;
+}
+
+.opened-article > .campaign .cmsmasters_campaign_meta_info > a:first-child {
+	margin-right: 0;
+}
+
+.opened-article > .campaign .cmsmasters_campaign_meta_info > a.cmsmasters_post_comments span {
+	margin-right: 5px;
+	margin-left:0;
+}
+
+.related_posts_tabs_campaign .one_half .rel_post_content .related_posts_campaign_wrap .cmsmasters_campaign_donated .cmsmasters_stats.stats_mode_bars.stats_type_horizontal .cmsmasters_stat_wrap {
+	padding-left: 35px;
+	padding-right: 0;
+}
+
+.related_posts_tabs_campaign .one_half .rel_post_content .related_posts_campaign_wrap .cmsmasters_campaign_donated .cmsmasters_stats.stats_mode_bars.stats_type_horizontal .cmsmasters_stat_wrap .cmsmasters_stat .cmsmasters_stat_inner .cmsmasters_stat_counter_wrap {
+	right: auto;
+	left: -37px;
+}
+
+.cmsmasters_donations .donation .cmsmasters_donation_amount_title {
+	padding-left: 2px;
+	padding-right: 5px;
+	text-align: left;
+}
+
+.cmsmasters_donations .donation .cmsmasters_donation_amount_currency {
+	padding-left: 5px;
+	padding-right: 0;
+}
+
+.donations.opened-article > .donation .cmsmasters_donation_info_img {
+	padding-left: 90px;
+	padding-right: 0;
+}
+
+.donations.opened-article > .donation .cmsmasters_donation_details_item_title {
+	padding-left: 15px;
+	padding-right: 0;
+	text-align: right;
+}
+
+.donations.opened-article > .donation .cmsmasters_donation_details_item_value {
+	padding-left: 0;
+	padding-right: 15px;
+	text-align: left;
+}
+
+.donation_confirm .donation_confirm_info_title {
+	padding-left: 10px;
+	padding-right: 25px;
+}
+
+.donation_confirm .donation_confirm_info_value {
+	padding-left: 10px;
+	padding-right: 25px;
+}
