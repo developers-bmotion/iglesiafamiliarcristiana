@@ -26,7 +26,7 @@ define( 'DB_NAME', 'iglesiaifc' );
 define( 'DB_USER', 'forge' );
 
 /** MySQL database password */
-define( 'DB_PASSWORD', 'KkNuX4mDqVPEzkOBAohy' );
+define( 'DB_PASSWORD', 'oyf7JHCRCwS1ZW5O0eJp' );
 
 /** MySQL hostname */
 define( 'DB_HOST', 'localhost' );
