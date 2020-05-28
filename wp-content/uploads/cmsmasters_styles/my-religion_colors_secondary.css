@@ -22,12 +22,12 @@
 	ul.tt_upcoming_events li .tt_upcoming_events_event_container:hover,
 	.tt_upcoming_events_wrapper .tt_upcoming_event_controls > a:hover,
 	.tt_booking a.tt_btn {
-		background-color:#d14f42;
+		background-color:#d80038;
 	}
 	
 	ul.tt_upcoming_events li .tt_upcoming_events_event_container:hover,
 	.tt_upcoming_events_wrapper .tt_upcoming_event_controls > a:hover {
-		border-color:#d14f42;
+		border-color:#d80038;
 	}
 	/* Finish Primary Color */
 	
@@ -123,15 +123,15 @@
 	.cmsmasters_donations .donation .cmsmasters_donation_amount_currency,
 	.cmsmasters_donations .donation .cmsmasters_donation_campaign a:hover,
 	.cmsmasters_donations .donation .cmsmasters_donation_title a:hover {
-		color:#d14f42;
+		color:#d80038;
 	}
 	
 	.opened-article > .campaign .campaign_meta_wrap .cmsmasters_campaign_donate_button .button {
-		background-color:#d14f42;
+		background-color:#d80038;
 	}
 	
 	.opened-article > .campaign .campaign_meta_wrap .cmsmasters_campaign_donate_button .button {
-		border-color:#d14f42;
+		border-color:#d80038;
 	}
 	/* Finish Primary Color */
 	
@@ -259,7 +259,7 @@
 	.widget_shopping_cart .cart_list a:hover, 
 	.widget_shopping_cart .cart_list .quantity,
 	.woocommerce-store-notice .woocommerce-store-notice__dismiss-link {
-		color:#d14f42;
+		color:#d80038;
 	}
 	
 	.woocommerce-store-notice,
@@ -270,7 +270,7 @@
 	.onsale span, 
 	ul.order_details li, 
 	.widget_price_filter .ui-slider-range {
-		background-color:#d14f42;
+		background-color:#d80038;
 	}
 	
 	.cmsmasters_dynamic_cart .widget_shopping_cart_content .buttons .button:hover, 
@@ -280,7 +280,7 @@
 	.select2-drop.select2-drop-above.select2-drop-active,
 	body .select2-container.select2-container--open .select2-selection--single,
 	body .select2-container.select2-container--focus .select2-selection--single {
-		border-color:#d14f42;
+		border-color:#d80038;
 	}
 	/* Finish Primary Color */
 	
@@ -471,7 +471,7 @@
 	.tribe-events-countdown-widget .tribe-countdown-text a:hover, 
 	.tribe-this-week-events-widget .tribe-this-week-event .duration:before, 
 	.tribe-this-week-events-widget .tribe-this-week-event .tribe-venue:before {
-		color:#d14f42;
+		color:#d80038;
 	}
 	
 	#tribe-bar-views .tribe-bar-views-list li:hover, 
@@ -493,18 +493,18 @@
 	table.tribe-events-calendar tbody td.tribe-events-has-events:before, 
 	.tribe-this-week-events-widget .this-week-today .tribe-this-week-widget-header-date, 
 	.tribe-events-venue-widget .tribe-venue-widget-venue {
-		background-color:#d14f42;
+		background-color:#d80038;
 	}
 	
 	.datepicker table tr td span.active,
 	.datepicker table tr td.active {
-		background:#d14f42 !important;
+		background:#d80038 !important;
 	}
 	
 	#tribe-bar-views .tribe-bar-views-list li:hover, 
 	#tribe-bar-views .tribe-bar-views-list li.tribe-bar-active, 
 	#tribe-bar-views.tribe-bar-views-open .button {
-		border-color:#d14f42;
+		border-color:#d80038;
 	}
 	/* Finish Primary Color */
 	
@@ -745,7 +745,7 @@
 	.cmsmasters_sermon .current_audio .cmsmasters_sermon_audio,
 	.current_audio .cmsmasters_sermon_audio:before,
 	.cmsmasters_sermon_author a:hover {
-		color:#d14f42;
+		color:#d80038;
 	}
 	/* Finish Primary Font Color */
 	
@@ -3086,7 +3086,7 @@
 	
 	/* Start Highlight Color */
 	html .cmsmasters_color_scheme_third .hover_color {
-		color:#e96b61;
+		color:#a10062;
 	}
 	/* Finish Highlight Color */
 	
@@ -3190,7 +3190,7 @@
 	
 	/* Start Highlight Color */
 	html .cmsmasters_color_scheme_third .cmsmasters_post_comments:before {
-		color:#e96b61;
+		color:#a10062;
 	}
 	/* Finish Highlight Color */
 	
@@ -3340,11 +3340,11 @@
 	/* Start Highlight Color */
 	html .cmsmasters_color_scheme_third .widget_product_categories ul li:before,
 	html .cmsmasters_color_scheme_third .cmsmasters_product .button_to_cart {
-		color:#e96b61;
+		color:#a10062;
 	}
 	
 	html .cmsmasters_color_scheme_third .link_hover_color {
-		border-color:#e96b61;
+		border-color:#a10062;
 	}
 	/* Finish Highlight Color */
 	
@@ -3572,11 +3572,11 @@
 	html .cmsmasters_color_scheme_third .cmsmasters_single_event .cmsmasters_single_event_header_right a:before, 
 	html .cmsmasters_color_scheme_third .tribe-events-venue .cmsmasters_events_venue_header_right a:before, 
 	html .cmsmasters_color_scheme_third .event_hover {
-		color:#e96b61;
+		color:#a10062;
 	}
 	
 	html .cmsmasters_color_scheme_third .tribe-mini-calendar tbody .tribe-events-past a:before {
-		background-color:#e96b61;
+		background-color:#a10062;
 	}
 	/* Finish Highlight Color */
 	
@@ -4493,8 +4493,8 @@
 	 table thead th,
 	 table thead td {
 		color:#ffffff;
-		border-color:#d14f42;
-		background-color:#d14f42;
+		border-color:#d80038;
+		background-color:#d80038;
 	}
 	
 	 q, 
@@ -4533,8 +4533,8 @@
 	 .wp-block-table thead td,
 	 .wp-block-freeform.mce-content-body > table thead th,
 	 .wp-block-freeform.mce-content-body > table thead td {
-		background-color:#d14f42;
-		border-color:#d14f42;
+		background-color:#d80038;
+		border-color:#d80038;
 		color:#ffffff;
 	}
 	/* Finish Table Colors */
@@ -4566,11 +4566,11 @@
 	.editor-styles-wrapper a,
 	.editor-styles-wrapper .wp-block-freeform.block-library-rich-text__tinymce a,
 	.editor-styles-wrapper .wp-block-file .wp-block-file__textlink {
-		color:#d14f42;
+		color:#d80038;
 	}
 
 	 .wp-block-search .wp-block-search__input:focus {
-		border-color:#d14f42;
+		border-color:#d80038;
 	}
 	/* Finish Primary Color */
 	
@@ -4671,7 +4671,7 @@
 	 .wp-block-file .wp-block-file__button,
 	 .wp-block-file a.wp-block-file__button {
 		color:#ffffff;
-		background-color:#d14f42;
+		background-color:#d80038;
 	}
 	
 	 .wp-block-button .wp-block-button__link:not(.has-text-color):not(.has-background):hover,
@@ -4688,17 +4688,17 @@
 	}
 	
 	 .wp-block-button.is-style-outline .wp-block-button__link:not(.has-text-color):not(.has-background) {
-		color:#d14f42;
+		color:#d80038;
 		background-color:#ffffff;
-		border-color:#d14f42;
+		border-color:#d80038;
 	}
 	
 	 .wp-block-button.is-style-outline .wp-block-button__link:not(.has-text-color):not(.has-background):hover,
 	 .wp-block-button.is-style-outline .wp-block-button__link:not(.has-text-color):not(.has-background):focus,
 	 .wp-block-button.is-style-outline .wp-block-button__link:not(.has-text-color):not(.has-background):active {
 		color:#ffffff;
-		background-color:#d14f42;
-		border-color:#d14f42;
+		background-color:#d80038;
+		border-color:#d80038;
 	}
 	/* Finish Buttons Colors */
 	

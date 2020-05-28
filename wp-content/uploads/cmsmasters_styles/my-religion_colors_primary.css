@@ -107,7 +107,7 @@
 	.cmsmasters_sitemap_wrap .cmsmasters_sitemap_category > li > a:hover,
 	.cmsmasters_attach_img .cmsmasters_attach_img_edit a, 
 	.cmsmasters_attach_img .cmsmasters_attach_img_meta a {
-		color:#d14f42;
+		color:#d80038;
 	}
 	
 	#slide_top:hover,
@@ -142,7 +142,7 @@
 	.cmsmasters_counters .cmsmasters_counter_wrap .cmsmasters_counter .cmsmasters_counter_inner:before, 
 	.wpcf7 form.wpcf7-form span.wpcf7-list-item input[type=radio] + span.wpcf7-list-item-label:after, 
 	.cmsmasters-form-builder .check_parent input[type=radio] + label:after {
-		background-color:#d14f42;
+		background-color:#d80038;
 	}
 	
 	#slide_top:hover,
@@ -164,19 +164,19 @@
 	input:not([type=submit]):not([type=button]):not([type=radio]):not([type=checkbox]):focus,
 	select:focus,
 	textarea:focus {
-		border-color:#d14f42;
+		border-color:#d80038;
 	}
 	
 	.cmsmasters_project_puzzle .project_outer:hover .project_inner {
-		background-color:rgba(209, 79, 66, 0.9);
+		background-color:rgba(216, 0, 56, 0.9);
 	}
 	
 	.post.cmsmasters_puzzle_type:hover .puzzle_post_content_wrapper,
 	input:not([type=submit]):not([type=button]):not([type=radio]):not([type=checkbox]):focus,
 	textarea:focus,
 	select:focus {
-		-webkit-box-shadow:inset 0 0 0 1px #d14f42;
-		box-shadow:inset 0 0 0 1px #d14f42;
+		-webkit-box-shadow:inset 0 0 0 1px #d80038;
+		box-shadow:inset 0 0 0 1px #d80038;
 	}
 	/* Finish Primary Color */
 	
@@ -565,12 +565,12 @@
 	
 	/* Start Custom Rules */
 	::selection {
-		background:#d14f42;
+		background:#d80038;
 		color:#ffffff;;
 	}
 	
 	::-moz-selection {
-		background:#d14f42;
+		background:#d80038;
 		color:#ffffff;
 	}
 	
@@ -582,15 +582,15 @@
 /***************** Start Default Button Color Scheme Rules ******************/
 	
 	.cmsmasters_button.cmsmasters_but_bg_hover {
-		border-color:#d14f42;
+		border-color:#d80038;
 		background-color:#ffffff;
-		color:#d14f42;
+		color:#d80038;
 	}
 	
 	.cmsmasters_button.cmsmasters_but_bg_hover:hover, 
 	.cmsmasters_paypal_donations > form:hover + .cmsmasters_button.cmsmasters_but_bg_hover {
-		border-color:#d14f42;
-		background-color:#d14f42;
+		border-color:#d80038;
+		background-color:#d80038;
 		color:#ffffff;
 	}
 	
@@ -602,9 +602,9 @@
 	.cmsmasters_button.cmsmasters_but_bg_expand_vert, 
 	.cmsmasters_button.cmsmasters_but_bg_expand_hor, 
 	.cmsmasters_button.cmsmasters_but_bg_expand_diag {
-		border-color:#d14f42;
+		border-color:#d80038;
 		background-color:#ffffff;
-		color:#d14f42;
+		color:#d80038;
 	}
 	
 	.cmsmasters_button.cmsmasters_but_bg_slide_left:hover, 
@@ -621,7 +621,7 @@
 	.cmsmasters_paypal_donations > form:hover + .cmsmasters_button.cmsmasters_but_bg_expand_vert, 
 	.cmsmasters_paypal_donations > form:hover + .cmsmasters_button.cmsmasters_but_bg_expand_hor, 
 	.cmsmasters_paypal_donations > form:hover + .cmsmasters_button.cmsmasters_but_bg_expand_diag {
-		border-color:#d14f42;
+		border-color:#d80038;
 		background-color:#ffffff;
 		color:#ffffff;
 	}
@@ -633,18 +633,18 @@
 	.cmsmasters_button.cmsmasters_but_bg_expand_vert:after, 
 	.cmsmasters_button.cmsmasters_but_bg_expand_hor:after, 
 	.cmsmasters_button.cmsmasters_but_bg_expand_diag:after {
-		background-color:#d14f42;
+		background-color:#d80038;
 	}
 	
 	
 	.cmsmasters_button.cmsmasters_but_shadow {
-		background-color:#d14f42;
+		background-color:#d80038;
 		color:#ffffff;
 	}
 	
 	.cmsmasters_button.cmsmasters_but_shadow:hover, 
 	.cmsmasters_paypal_donations > form:hover + .cmsmasters_button.cmsmasters_but_shadow {
-		background-color:#d14f42;
+		background-color:#d80038;
 		color:#ffffff;
 	}
 	
@@ -652,7 +652,7 @@
 	.cmsmasters_button.cmsmasters_but_icon_dark_bg, 
 	.cmsmasters_button.cmsmasters_but_icon_light_bg, 
 	.cmsmasters_button.cmsmasters_but_icon_divider {
-		background-color:#d14f42;
+		background-color:#d80038;
 		color:#ffffff;
 	}
 	
@@ -662,7 +662,7 @@
 	.cmsmasters_paypal_donations > form:hover + .cmsmasters_button.cmsmasters_but_icon_dark_bg, 
 	.cmsmasters_paypal_donations > form:hover + .cmsmasters_button.cmsmasters_but_icon_light_bg, 
 	.cmsmasters_paypal_donations > form:hover + .cmsmasters_button.cmsmasters_but_icon_divider {
-		background-color:#d14f42;
+		background-color:#d80038;
 		color:#ffffff;
 	}
 	
@@ -671,13 +671,13 @@
 	}
 	
 	.cmsmasters_button.cmsmasters_but_icon_inverse {
-		border-color:#d14f42;
-		background-color:#d14f42;
+		border-color:#d80038;
+		background-color:#d80038;
 		color:#ffffff;
 	}
 	
 	.cmsmasters_button.cmsmasters_but_icon_inverse:before {
-		color:#d14f42;
+		color:#d80038;
 	}
 	
 	.cmsmasters_button.cmsmasters_but_icon_inverse:after {
@@ -686,9 +686,9 @@
 	
 	.cmsmasters_button.cmsmasters_but_icon_inverse:hover, 
 	.cmsmasters_paypal_donations > form:hover + .cmsmasters_button.cmsmasters_but_icon_inverse {
-		border-color:#d14f42;
+		border-color:#d80038;
 		background-color:#ffffff;
-		color:#d14f42;
+		color:#d80038;
 	}
 	
 	.cmsmasters_button.cmsmasters_but_icon_inverse:hover:before, 
@@ -698,23 +698,23 @@
 	
 	.cmsmasters_button.cmsmasters_but_icon_inverse:hover:after, 
 	.cmsmasters_paypal_donations > form:hover + .cmsmasters_button.cmsmasters_but_icon_inverse:after {
-		background-color:#d14f42;
+		background-color:#d80038;
 	}
 	
 	
 	.cmsmasters_button.cmsmasters_but_icon_slide_left, 
 	.cmsmasters_button.cmsmasters_but_icon_slide_right {
-		border-color:#d14f42;
+		border-color:#d80038;
 		background-color:#ffffff;
-		color:#d14f42;
+		color:#d80038;
 	}
 	
 	.cmsmasters_button.cmsmasters_but_icon_slide_left:hover, 
 	.cmsmasters_button.cmsmasters_but_icon_slide_right:hover, 
 	.cmsmasters_paypal_donations > form:hover + .cmsmasters_button.cmsmasters_but_icon_slide_left, 
 	.cmsmasters_paypal_donations > form:hover + .cmsmasters_button.cmsmasters_but_icon_slide_right {
-		border-color:#d14f42;
-		background-color:#d14f42;
+		border-color:#d80038;
+		background-color:#d80038;
 		color:#ffffff;
 	}
 	
@@ -723,8 +723,8 @@
 	.cmsmasters_button.cmsmasters_but_icon_hover_slide_right, 
 	.cmsmasters_button.cmsmasters_but_icon_hover_slide_top, 
 	.cmsmasters_button.cmsmasters_but_icon_hover_slide_bottom {
-		border-color:#d14f42;
-		background-color:#d14f42;
+		border-color:#d80038;
+		background-color:#d80038;
 		color:#ffffff;
 	}
 	
@@ -736,8 +736,8 @@
 	.cmsmasters_paypal_donations > form:hover + .cmsmasters_button.cmsmasters_but_icon_hover_slide_right, 
 	.cmsmasters_paypal_donations > form:hover + .cmsmasters_button.cmsmasters_but_icon_hover_slide_top, 
 	.cmsmasters_paypal_donations > form:hover + .cmsmasters_button.cmsmasters_but_icon_hover_slide_bottom {
-		border-color:#d14f42;
-		background-color:#d14f42;
+		border-color:#d80038;
+		background-color:#d80038;
 		color:#ffffff;
 	}
 
@@ -3191,15 +3191,15 @@
 	html .cmsmasters_color_scheme_third .cmsmasters_counters .cmsmasters_counter_wrap .cmsmasters_counter .cmsmasters_counter_inner .cmsmasters_counter_title, 
 	html .cmsmasters_color_scheme_third .cmsmasters_quotes_grid .cmsmasters_quotes_list:after,
 	html .cmsmasters_color_scheme_third .cmsmasters_profile .cmsmasters_profile_subtitle {
-		color:#e96b61;
+		color:#a10062;
 	}
 	
 	html .cmsmasters_color_scheme_third input::-webkit-input-placeholder {
-		color:#e96b61;
+		color:#a10062;
 	}
 	
 	html .cmsmasters_color_scheme_third input:-moz-placeholder {
-		color:#e96b61;
+		color:#a10062;
 	}
 	/* Finish Highlight Color */
 	
