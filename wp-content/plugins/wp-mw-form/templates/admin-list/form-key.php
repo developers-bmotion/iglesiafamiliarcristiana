@@ -1,1 +1,0 @@
-<span id="formkey_field">[mwform_formkey key="<?php echo esc_html( $post_id ); ?>"]</span>
