@@ -1,0 +1,1 @@
+/home/redis/public_html/whm/whmcs/configuration.php

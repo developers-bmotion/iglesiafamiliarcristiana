@@ -1,0 +1,1 @@
+/home/smmsp/public_html/central/configuration.php

@@ -1,0 +1,1 @@
+/home/smmta/public_html/whm/WHMCS/configuration.php

@@ -1,0 +1,1 @@
+/home/_apt/public_html/press/wp-config.php
